@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1265,
+        "name": "Azmin",
+        "email": "azmin@demogmail.com",
+        "phone": 1584559454,
+        "department": "it",
+        "costPerHead": 3160,
+        "image": "./images/9.jpg"
+    },
+    {
+        "id": 3562,
+        "name": "Bob",
+        "email": "bob32@gmail.com",
+        "phone": 1555545459,
+        "department": "admin",
+        "costPerHead": 3590,
+        "image": "./images/1.jpg"
+    },
+    {
+        "id": 1965,
+        "name": "Jai",
+        "email": "jai87@gmail.com",
+        "phone": 1694855458,
+        "department": "rnd",
+        "costPerHead": 3320,
+        "image": "./images/2.jpg"
+    },
+    {
+        "id": 2345,
+        "name": "Monzur",
+        "email": "monzu@yahoo.com",
+        "phone": 1864594541,
+        "department": "operation",
+        "costPerHead": 2550,
+        "image": "./images/3.jpg"
+    },
+    {
+        "id": 765,
+        "name": "Rafiq",
+        "email": "rafiq990@gmail.com",
+        "phone": 1751658430,
+        "department": "monitoring",
+        "costPerHead": 2550,
+        "image": "./images/4.jpg"
+    },
+    {
+        "id": 1689,
+        "name": "Afsar",
+        "email": "afsar.bd@gmail.com",
+        "phone": 1434123458,
+        "department": "accounts",
+        "costPerHead": 2340,
+        "image": "./images/5.jpg"
+    },
+    {
+        "id": 3824,
+        "name": "Sharif",
+        "email": "sharif.it@yahoo.com",
+        "phone": 1765504541,
+        "department": "admin",
+        "costPerHead": 2750,
+        "image": "./images/6.jpg"
+    },
+    {
+        "id": 1456,
+        "name": "Mostafiz",
+        "email": "mostafiz.gd@gmail.com",
+        "phone": 1813481397,
+        "department": "it",
+        "costPerHead": 2950,
+        "image": "./images/7.jpg"
+    },
+    {
+        "id": 1724,
+        "name": "Alauddin",
+        "email": "alauddin2019@gmail.com",
+        "phone": 1912323457,
+        "department": "procurement",
+        "costPerHead": 2250,
+        "image": "./images/8.jpg"
+    }
+]
