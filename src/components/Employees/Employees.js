@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Employee from '../Employee/Employee';
+import Sidebar from '../Sidebar/Sidebar';
 import './Employees.css'
 
 const Employees = () => {
@@ -30,8 +31,8 @@ const Employees = () => {
                 }
 
             </div>
-            <div className="side-info">
-                <h3>My Cart</h3>
+            <div className="sidebar">
+                <Sidebar list={list}></Sidebar>
             </div>
 
         </div>
