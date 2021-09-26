@@ -14,8 +14,8 @@ const Sidebar = (props) => {
     }
     return (
         <div className="side-info">
-            <h3>Total Person Added: {addedEmployee}</h3>
-            <h4>Total Cost : {totalCost.toFixed(2)}</h4>
+            <h3>Training Participants: {addedEmployee}</h3>
+            <h4>Total Allowance Cost : ${totalCost.toFixed(2)}</h4>
         </div>
     );
 };
