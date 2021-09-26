@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Employee from '../Employee/Employee';
 import Sidebar from '../Sidebar/Sidebar';
-import './Employees.css'
+import './Employees.css';
 
 const Employees = () => {
     const [employees, setEmployees] = useState([]);
@@ -17,6 +17,8 @@ const Employees = () => {
     const handleAddToTraining = (employee) => {
         const newList = [...list, employee];
         setList(newList);
+
+
     }
 
     return (

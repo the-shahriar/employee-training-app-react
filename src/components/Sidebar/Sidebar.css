@@ -3,8 +3,32 @@
     padding: 20px 10px 10px 10px;
     border-radius: 10px;
     box-shadow: 0 8px 8px -4px lightblue;
-    height: 400px;
+    height: auto;
     margin-right: 10px;
     margin-top: 30px;
     text-align: center;
+    border: 2px solid rgb(36, 64, 92);
+}
+
+hr{
+    padding: 2px;
+    background-color: black;
+}
+
+.added-person{
+    text-align: left;
+    padding: 0 20px;
+}
+
+.added-person img{
+    border-radius: 50%;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+}
+
+.person-name{
+    background-color: rgb(105, 145, 185);
+    padding: 10px;
+    color: white;
 }
