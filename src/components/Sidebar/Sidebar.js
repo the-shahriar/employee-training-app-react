@@ -8,7 +8,6 @@ const Sidebar = (props) => {
     let names = [];
 
     for (const employee of list) {
-
         employee.quantity = !employee.quantity ? 1 : employee.quantity;
         totalCost = (totalCost + employee.costPerHead);
         addedEmployee = addedEmployee + employee.quantity;
@@ -28,7 +27,6 @@ const Sidebar = (props) => {
                 }
             </div>
             <h2>Total Allowance Cost : ${totalCost.toFixed(2)}</h2>
-            <hr />
 
         </div>
     );

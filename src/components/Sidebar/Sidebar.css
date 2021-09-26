@@ -10,11 +10,6 @@
     border: 2px solid rgb(36, 64, 92);
 }
 
-hr{
-    padding: 2px;
-    background-color: black;
-}
-
 .added-person{
     text-align: left;
     padding: 0 20px;
@@ -24,6 +19,11 @@ hr{
     border-radius: 50%;
     height: 30%;
     width: 30%;
+    text-align: center;
+}
+
+.cover{
+    display: block;
     text-align: center;
 }
 

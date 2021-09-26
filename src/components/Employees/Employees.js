@@ -17,8 +17,6 @@ const Employees = () => {
     const handleAddToTraining = (employee) => {
         const newList = [...list, employee];
         setList(newList);
-
-
     }
 
     return (
